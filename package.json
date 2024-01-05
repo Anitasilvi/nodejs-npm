@@ -15,6 +15,10 @@
     "start": "node index.js",
     "poststart": "echo 'After Application Start'"
   },
+  "exports": {
+    ".": "./index.js",
+    "./write": "./write.js"
+  },
   "keywords": [
     "npm"
   ],
