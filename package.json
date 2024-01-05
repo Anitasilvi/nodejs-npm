@@ -15,5 +15,6 @@
     "npm"
   ],
   "author": "Anita Silvi",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
